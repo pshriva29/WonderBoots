@@ -1,0 +1,152 @@
+#subHeading1 {
+	text-align: center;
+	font-family: "Comic Sans MS",Times,Serif;
+}
+#subHeading2 {
+	text-align: center;
+	font-family: "Comic Sans MS",Times,Serif;
+}
+footer {
+    display: block;
+    text-align: center;
+}
+
+.thumbnail{
+    margin-bottom: 10px;
+}
+#topbar ul li a{
+padding-top: 10px;
+color: black;
+}
+
+#topbar ul.navbar-right > li a {
+	color: black;
+  	padding: 10px;		/*added*/
+
+}
+
+
+#sectionbar ul li a{
+    text-align: center;
+    display: block;
+    font-weight: bold;
+    font-size: 200%;
+    padding-left: 175px;
+    padding-top: 15px;
+    color: white;
+}
+
+
+.center{
+    text-align: center;
+}
+
+.side-menu{
+    display: inline-block;
+    margin-left: auto;
+}
+
+.container{
+    margin-left: auto;
+}
+
+.thumbnail a img{
+    height: 200px; 
+    width : 200px;
+    margin-bottom: 0px;
+  
+}
+
+.rowstyle{
+    padding-top: 50px;
+}
+
+.nav>li>a{
+    padding: 2px 30px;
+}
+
+.itemdetails{
+    padding-top: 0px;
+    color: red;
+}
+
+#bottombar {
+      padding-left: 535px;
+      padding-bottom: 0px;
+
+}
+
+#bottombar ul li a{
+ 
+      padding-top: 10px;
+      color: black;
+
+}
+
+/*.heading{ 				added this for heading
+	text-align:center; 
+	color:#8B0000; 
+	font-weight:bold;
+    font-family: "Book Antiqua";
+}
+*/
+.logo{
+    display: block;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+}
+.logo img{
+    padding: 0;
+}
+.logo h1{
+    color: #8B0000;
+    font-weight: bold;
+    font-family: "Book Antiqua";
+    font-size: 400%;
+    float: left;
+}
+
+#details img{
+   height: 300px; 
+   width : 400px;
+}
+
+#detailscontainer{
+    margin-left: auto;
+}
+
+#detailrow{
+    padding-left: 25px;
+}
+
+#bag{
+    padding-top: 25px;
+   
+}
+
+.box{
+    display: block;
+    border-radius: 4px;
+    border: 1px #ddd solid;
+    background-color: #fff;
+    box-sizing: border-box;
+    padding: 30px;
+     
+}
+
+.breadcrumb > li + li:before {
+   color: #CCCCCC;
+   content: ">";
+   padding: 0 5px;
+}
+
+#message{
+    color: red;
+}
+
+/*for price on details page*/
+.price{
+ font-size: 150%;
+ color: red;
+}

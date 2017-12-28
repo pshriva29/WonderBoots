@@ -1,0 +1,45 @@
+label
+{
+    display: inline-block;
+    
+    clear: left;
+    width: 250px;
+    text-align:right;
+}
+
+
+input {
+  display: inline-block;
+  
+
+}
+
+#center
+{
+text-align:center;
+}
+#main
+{
+text-align:center;
+}
+
+p
+{
+
+text-align:center;
+}
+h2,h1
+{
+text-align:center;
+}
+
+   
+a:link{color:#9932cc;
+text-decoration:none;
+font-size:125%}
+a:hover,a:focus{color:orange;
+text-decoration:none;}
+a:active{color:blue;
+text-decoration:none;}
+a:visited{color:#CCCC00;
+text-decoration:none;}
